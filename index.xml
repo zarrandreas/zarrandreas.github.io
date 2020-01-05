@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ekklesia Dresden</title>
+    <link>http://ekklesia.world/</link>
+    <description>Recent content on Ekklesia Dresden</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jun 2018 00:36:50 +0200</lastBuildDate>
+    
+	<atom:link href="http://ekklesia.world/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Impressum</title>
+      <link>http://ekklesia.world/impressum/</link>
+      <pubDate>Wed, 13 Jun 2018 00:36:50 +0200</pubDate>
+      
+      <guid>http://ekklesia.world/impressum/</guid>
+      <description>Impressum</description>
+    </item>
+    
+    <item>
+      <title>Архив</title>
+      <link>http://ekklesia.world/archive/</link>
+      <pubDate>Wed, 13 Jun 2018 00:36:50 +0200</pubDate>
+      
+      <guid>http://ekklesia.world/archive/</guid>
+      <description>Архив</description>
+    </item>
+    
+    <item>
+      <title>Блог</title>
+      <link>http://ekklesia.world/blog/</link>
+      <pubDate>Wed, 13 Jun 2018 00:36:50 +0200</pubDate>
+      
+      <guid>http://ekklesia.world/blog/</guid>
+      <description>Блог</description>
+    </item>
+    
+    <item>
+      <title>Команда</title>
+      <link>http://ekklesia.world/team/</link>
+      <pubDate>Wed, 13 Jun 2018 00:36:50 +0200</pubDate>
+      
+      <guid>http://ekklesia.world/team/</guid>
+      <description>Команда</description>
+    </item>
+    
+    <item>
+      <title>О нас</title>
+      <link>http://ekklesia.world/about/</link>
+      <pubDate>Wed, 13 Jun 2018 00:36:50 +0200</pubDate>
+      
+      <guid>http://ekklesia.world/about/</guid>
+      <description>О НАС</description>
+    </item>
+    
+    <item>
+      <title>О нас</title>
+      <link>http://ekklesia.world/location/</link>
+      <pubDate>Wed, 13 Jun 2018 00:36:50 +0200</pubDate>
+      
+      <guid>http://ekklesia.world/location/</guid>
+      <description>Локация</description>
+    </item>
+    
+    <item>
+      <title>Свяжись с нами</title>
+      <link>http://ekklesia.world/contact/</link>
+      <pubDate>Wed, 13 Jun 2018 00:36:50 +0200</pubDate>
+      
+      <guid>http://ekklesia.world/contact/</guid>
+      <description>Contact</description>
+    </item>
+    
+    <item>
+      <title>Свяжись с нами</title>
+      <link>http://ekklesia.world/posts/contact/</link>
+      <pubDate>Wed, 13 Jun 2018 00:36:50 +0200</pubDate>
+      
+      <guid>http://ekklesia.world/posts/contact/</guid>
+      <description>Contact</description>
+    </item>
+    
+    <item>
+      <title>События</title>
+      <link>http://ekklesia.world/events/</link>
+      <pubDate>Wed, 13 Jun 2018 00:36:50 +0200</pubDate>
+      
+      <guid>http://ekklesia.world/events/</guid>
+      <description>События</description>
+    </item>
+    
+    <item>
+      <title>События</title>
+      <link>http://ekklesia.world/photos/</link>
+      <pubDate>Wed, 13 Jun 2018 00:36:50 +0200</pubDate>
+      
+      <guid>http://ekklesia.world/photos/</guid>
+      <description>События</description>
+    </item>
+    
+  </channel>
+</rss>
